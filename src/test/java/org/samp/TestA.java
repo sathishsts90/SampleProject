@@ -13,4 +13,16 @@ System.out.println("emp name sathish");
 		System.out.println("emp ph no 9944568572");
 
 	}
+	
+	private void tamilNadu() {
+System.out.println("TamilNadu");
+	}
+	private void andraPradesh() {
+		System.out.println("AndraPradesh");
+
+	}
+	private void newDelhi() {
+		System.out.println("NewDelhi");
+
+	}
 }
